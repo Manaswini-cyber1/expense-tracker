@@ -31,7 +31,8 @@ expense-tracker/
 
 ├── README.md
 
-└── screenshots/
+└── output1
+    output2
 
 └──gitignore
 
