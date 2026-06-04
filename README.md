@@ -33,6 +33,8 @@ expense-tracker/
 
 └── screenshots/
 
+└──gitignore
+
 ## How to Run the Project
 
 1. Open the project folder in VS Code.
