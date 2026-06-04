@@ -86,6 +86,3 @@ Through this project, I learned:
 * Graphical User Interface (GUI)
 * Data export functionality
 
-## Author
-
-Manaswini Vanga
